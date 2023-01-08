@@ -8,11 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/apps_bazar" target="blank"><img src="https://img.shields.io/twitter/follow/apps_bazar?logo=twitter&style=for-the-badge" alt="apps_bazar" /></a> </p>
 
+- 🔭 I’m currently working on **Buckoid Android App**
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Web And Android**
 
 - 📫 How to reach me **appsbazar.info@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
