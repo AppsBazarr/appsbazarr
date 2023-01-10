@@ -23,7 +23,7 @@
 <a href="https://twitter.com/apps_bazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apps_bazar" height="30" width="40" /></a>
 <a href="https://fb.com/appsbazar.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="appsbazar.xyz" height="30" width="40" /></a>
 <a href="https://instagram.com/apps_bazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apps_bazar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@proappdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@proappdeveloper" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@proappdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@proappdeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
